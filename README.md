@@ -1,4 +1,4 @@
-## Hi there 👋
+nikhil
 
 <!--
 **Nikhil-1229/nikhil-1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
